@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603603719 source:d:\billing\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<ios>
+
